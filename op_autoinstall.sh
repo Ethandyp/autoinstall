@@ -1,5 +1,5 @@
 #!/bin/bash
-#优卖一点官网运行环境自动化安装脚本
+#UM yidian官网运行环境自动化安装脚本
 #前端使用openresty
 #php5.5
 #php使用的memcache
